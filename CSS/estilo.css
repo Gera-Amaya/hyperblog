@@ -9,3 +9,7 @@ h1 {
 .container {
     text-align: center;
 }
+
+.cabecera {
+    font-size: 20px;
+}
