@@ -2,8 +2,16 @@
     font-family: sans-serif;
 }
 
-h1 {
-    color: blueviolet;
+.pSuperior {
+    color: blanchedalmond;
+    background-color: #000066;
+    padding: 10px;
+    margin: 0 80px;
+}
+
+.pInferior {
+    padding: 10px;
+    box-shadow: 0 20px solid black;
 }
 
 .container {
