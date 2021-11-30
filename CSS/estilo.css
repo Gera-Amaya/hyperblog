@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+}
+
+.pSuperior {
+    color: blanchedalmond;
+    background-color: #000066;
+    padding: 10px;
+    margin: 0 80px;
+}
+
+.pInferior {
+    padding: 10px;
+    box-shadow: ;
+}
+
+.container {
+    text-align: center;
+}
+
+.cabecera {
+    font-size: 20px;
+}
